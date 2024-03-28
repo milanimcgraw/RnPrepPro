@@ -1,5 +1,5 @@
 # Welcome to RNPrepPro!
-# You're all-in-one NCLEX-RN study tool. 
+### You're all-in-one NCLEX-RN study tool. 
 
 In this repository, you'll find all of the information, files, and code to the RnPrepPro app. 
 
