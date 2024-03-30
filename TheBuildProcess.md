@@ -8,8 +8,8 @@
 
 ## CODE:
 * [Langchain/LlamaIndex RAG w RAGAS Evaluation](https://colab.research.google.com/drive/1vOszspNFzd31HVLsExRyFEUQcwXcL4v_?usp=sharing)
-* [Mistral-7B-Instruct-v2.0: Finetuning, RAG, & RAGAS Evaluation] (https://colab.research.google.com/drive/1vOXjPyO09Aess3fxDCR5UJjJMeiNE4ox?usp=sharing)
-* 
+* [Mistral-7B-Instruct-v2.0: Finetuning, RAG, & RAGAS Evaluation](https://colab.research.google.com/drive/1vOXjPyO09Aess3fxDCR5UJjJMeiNE4ox?usp=sharing) 
+
 
 ### PHASE 1 🛠️ 
 * Generated a prompt to test with both Langchain and LLlamaIndex RAG to **answer 5 questions on 5 topics** from the data provided. 
