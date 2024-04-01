@@ -17,7 +17,7 @@
 * Evaluate both RAG chains with RAGAS, and a prepared dataset.
 
 ### PHASE 2 🛠️
-* **The Mistral-7B-Instruct-v2.0** was chosen as a smaller free model.
+* **The Mistral-7B-Instruct-v0.2** was chosen as a smaller free model.
 * The Mistral 7B model (based) was tested to **generate 5 Q&A pairs** with the same prompt and queries from PHASE 1.
 * The model was then fine-tuned on a dataset from Hugging Face linked [here.](https://huggingface.co/datasets/openlifescienceai/medmcqa)
 * The fine-tuned version was tested to **generate 5 Q&A pairs** with the same prompt and queries from PHASE 1.
